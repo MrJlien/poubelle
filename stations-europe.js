@@ -1269,7 +1269,7 @@ var stations = {
             url: "https://stream.ouifm.fr/ouifm-high.mp3"
         },
         {
-            name: "Radio Classique",
+            name: "Radio Classique ER",
             logo: "stations/images-europe/france/Radio Classique.png",
             url: "http://radioclassique.ice.infomaniak.ch/radioclassique-high.mp3"
         },
@@ -1582,9 +1582,9 @@ var stations = {
     ],
     "germany-bremen": [
         {
-            name: "NRJ Malterre",
-            logo: "stations/images-europe/france/NRJ.png",
-            url: "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=listenlive"
+            name: "Bremen Eins",
+            logo: "stations/images-europe/germany-ndr/Bremen Eins.png",
+            url: "https://icecast.radiobremen.de/rb/bremeneins/live/mp3/128/stream.mp3"
         },
         {
             name: "Bremen Zwei",
@@ -1777,9 +1777,9 @@ var stations = {
     ],
     "germany-mdr": [
         {
-            name: "NRJ Beaubourg",
-            logo: "stations/images-europe/france/NRJ.png",
-            url: "http://cdn.nrjaudio.fm/audio1/fr/30001/mp3_128.mp3?origine=listenlive"
+            name: "MDR AKTUELL",
+            logo: "stations/images-europe/germany-mdr/MDR AKTUELL.png",
+            url: "http://mdr-284340-0.cast.mdr.de/mdr/284340/0/mp3/high/stream.mp3"
         },
         {
             name: "MDR Klassik",
